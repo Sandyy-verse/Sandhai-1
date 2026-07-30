@@ -51,7 +51,7 @@ const PALETTE = {
 };
 
 // Replace with your own email(s) — these accounts see the Admin panel.
-const ADMIN_EMAILS = ["you@example.com"];
+const ADMIN_EMAILS = ["ramarajk55054@gmail.com"];
 
 const LANES = [
   { key: "A", name: "Farm & Garden", tag: "seeds, saplings, tools", icon: Sprout, tint: "#5C7A5E" },
